@@ -3,7 +3,7 @@
   <a href="" target="_blank">akash.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./portfolio.png" />
+  <img alt="Demo" src="./Images/portfolio.png" />
 </div>
 
 <br/>
