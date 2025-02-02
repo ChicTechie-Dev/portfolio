@@ -23,7 +23,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href={
-              "https://drive.google.com/file/d/10gsrsmxOZxCfnINr9rhKOH_lAQcbrcNg/view?usp=sharing"
+              "https://drive.google.com/file/d/1sNadeHUgS4frcbSiNxhufvFS02mwFic3/view?usp=sharing"
             }
             target="_blank"
             style={{ maxWidth: "250px" }}
@@ -43,7 +43,7 @@ function ResumeNew() {
           <Button
             variant="primary"
             href={
-              "https://drive.google.com/file/d/10gsrsmxOZxCfnINr9rhKOH_lAQcbrcNg/view?usp=sharing"
+              "https://drive.google.com/file/d/1sNadeHUgS4frcbSiNxhufvFS02mwFic3/view?usp=sharing"
             }
             target="_blank"
             style={{ maxWidth: "250px" }}

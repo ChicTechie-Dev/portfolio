@@ -11,7 +11,7 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
 } from "react-icons/ai";
-
+import logo from "../Assets/av.png"
 import { CgFileDocument } from "react-icons/cg";
 
 function NavBar() {
