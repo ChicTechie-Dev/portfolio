@@ -18,18 +18,18 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Passionate and results-driven front-end developer with{" "}
+              Passionate and results-driven full stack developer with{" "}
               <span className="purple">3+ years</span> of experience
               specializing in
               <span className="purple">
-                &nbsp; React.js and modern web technologies.
+                &nbsp; React.js and Node.js modern web technologies.
               </span>
               Skilled in building scalable, dynamic, and intuitive user
               interfaces using
               <span className="purple">
                 &nbsp;React.js, JavaScript, TypeScript, and Redux.
               </span>
-              Proficient in Node.js for back-end integration, enabling seamless
+              Proficient in Node.js ,Express.js , MongoDB for back-end integration, enabling seamless
               full-stack development
               <br />
               <br />

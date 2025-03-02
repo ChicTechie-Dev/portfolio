@@ -11,6 +11,9 @@ import { SiTypescript } from "react-icons/si";
 import { MdOutlineHtml } from "react-icons/md";
 import { MdOutlineCss } from "react-icons/md";
 import { SiRedux } from "react-icons/si";
+import { SiExpress } from "react-icons/si";
+import { SiMongodb } from "react-icons/si";
+
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
@@ -35,9 +38,14 @@ function Techstack() {
         <SiRedux />
       </Col>
 
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
-      </Col> */}
+      <Col xs={4} md={2} className="tech-icons">
+        <h6>Express Js</h6>
+        <SiExpress />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <h6>MongoDB</h6>
+        <SiMongodb />
+      </Col>
 
       <Col xs={4} md={2} className="tech-icons">
         <h6>Python</h6>
